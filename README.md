@@ -172,14 +172,3 @@ aws-threat-detection-system/
 ```
 
 ---
-
-## 🙋 Author
-
-**Frang Vitto A**
-- 📧 frangvitto2004@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/frang-a-0b5ab9275)
-- 🐙 [GitHub](https://github.com/frangvitto2004-bit)
-
----
-
-## ⭐ If you found this project useful, please give it a star!
