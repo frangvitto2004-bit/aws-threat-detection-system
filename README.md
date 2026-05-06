@@ -1,3 +1,4 @@
+
 In this hands-on project, we'll build a real-time AI-powered threat detection and response system on AWS using GuardDuty, SNS, and Lambda. This setup will enable you to automatically detect threats and take immediate action, significantly improving your security posture. Simulate abnormal behavior in an AWS environment and use AI-powered tools to detect, respond, and notify you in real time.
 
 🛠 Tech Stack:
@@ -178,5 +179,6 @@ UnauthorizedAccess:EC2/TorClient
 
 Check the Lambda Function Logs
 • Navigate to the Lambda console and select your GuardDuty-Automated-Response function.
+• Click on the Monitor tab, and then View CloudWatch logs.
 • Click on the Monitor tab, and then View CloudWatch logs.
 
