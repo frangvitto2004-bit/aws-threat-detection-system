@@ -5,7 +5,7 @@ A real-time cloud security pipeline that automatically detects threats and trigg
 ---
 
 ## 🏗️ Architecture Overview
-[Architecture Diagram](architecture.png)
+(architecture.png)
 
 ```
 CloudTrail (API Logs)
